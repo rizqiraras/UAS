@@ -1,0 +1,340 @@
+body{
+margin: 0;
+}
+#menu{
+    width: 100%;
+    height: 110px;
+    background-color: #050505;
+}
+
+#isi-menu{
+    margin-top: 50px;
+    width: 500px;
+    float: left;
+    
+}
+
+#logo{
+  float: left;
+  height: 110px;
+  width: auto;
+}
+
+#isi-menu li{
+  list-style: none;
+  float: left;
+  margin-right: 50px;
+}
+#isi-menu a{
+  color: #fffffa;
+  text-decoration: none;
+  font-family: 'lobster';
+  font-size: 20px;
+
+}
+#slide img{
+    width: 100%;
+    display: block;
+}
+#dipercaya {
+    background-color: #2f4f4f;
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+}
+#dipercaya p{
+    margin: 0;
+    color: #2f4f4f;
+    font-size: 80px;
+    font-family: 'Lobster';
+}
+#dipercaya img{
+    vertical-align: middle;
+    
+}
+#pembeda{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url('wd/rosherun.jpg');
+    background-attachment: fixed;
+    color: #030303;
+    font-family: 'Mf be yourself';
+    font-size: 23px;
+}
+#judul-pembeda{
+  color: #030303;
+  font-size: 64px;
+  font-family: 'Mf be yourself';
+  font-weight: 400;
+  margin-top: -20px;
+}
+#subjudul-pembeda{
+   font-family: 'westmeath';
+   font-size: 80px;
+}
+#bungkus-pembeda{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bungkus-pembeda p{
+    width: 400px;
+    line-height: 22px;
+}
+#intro {
+    padding-top: 90px;
+    padding-bottom: 170px;
+    background-color: #838383;
+}
+#intro img{
+    border-radius: 300px;
+    float: center;
+}
+#isi-intro{
+    float: right;
+    width: 400px;
+    font-family: 'mf be yourself';
+    font-size: 18px;
+}
+#bungkus-intro{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    padding-top: 120px;
+    padding-bottom: 60;
+    
+}
+
+.footer-graphic {
+  position : right;
+  right: 875px;
+  bottom: 30px;
+  
+  }
+#isi-footer{
+    float: left;
+    width: 400px;
+    font-family: 'Mf really awesome';
+    font-size: 12px;
+    
+}
+#bungkus-footer{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#about{
+    width: 100%;
+    height: 110px;
+    background-color: #f8f8f8;
+}
+
+#isi-about{
+    margin-top: 50px;
+    width: 500px;
+    float: left;
+    
+}
+#isi-about li{
+    list-style: none;
+    float: left;
+    margin-right: 50px;
+}
+
+#isi-about a{
+    color: #f8f8f8;
+    text-decoration: none;
+    font-family: 'westmeath';
+    
+}
+#about{
+    padding-top: 100px;
+    padding-bottom: 250px;
+    background-image: url('wd/store.jpg');
+    background-attachment: fixed;
+    color: #bebebe;
+    font-family: 'mf be yourself';
+    font-size: 16px;
+}
+#judul-about{
+  color: #faf7f5;
+  font-size: 64px;
+  font-family: 'westmeath';
+  font-weight: 400;
+  margin-top: -20px;
+}
+#subjudul-about{
+    font-family: 'Westmeath';
+    font-size: 60px;
+}
+#bungkus-about{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bungkus-about p{
+    width: 400px;
+    line-height: 22px;
+}
+#owner{
+    padding-top: 90px;
+    padding-bottom: 70;
+    background-color: #050505;
+}
+#owner img{
+    border-radius: 300px;
+}
+#isi-owner{
+      float: right;
+      width: 500px;
+      font-family: 'mf be yourself';
+      font-size: 16px;
+      background-color: #050505;
+      color: #f8f8f8;
+      
+}
+#bungkus-owner{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#product{
+  width: 100%;
+  height: 110px;
+  background-color: #8d8d8d;
+}
+
+#isi-product{
+  margin-top: 50px;
+  width: 500px;
+  float: left;
+  
+}
+#isi-product li{
+  list-style: none;
+  float: left;
+  margin-right: 50px;
+}
+
+#isi-product a{
+  color: #8d8d8d;
+  text-decoration: none;
+  font-family: 'mf be yourself';
+  
+}
+#product{
+  padding-top: 100px;
+  padding-bottom: 250px;
+  background-image: url('wd/storeadidas.jpg');
+  background-attachment: fixed;
+  color: #030303;
+  font-family: 'mf be yourself';
+  font-size: 28px;
+}
+#judul-product{
+  color: #2e3336;
+  font-size: 64px;
+  font-family: 'mf be yourself';
+  font-weight: 400;
+  margin-top: -20px;
+}
+#subjudul-product{
+  font-family: 'impact';
+  font-size: 60px;
+}
+#bungkus-product{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#bungkus-product p{
+  width: 400px;
+  line-height: 22px;
+}
+#menus {
+    width: 100%;
+    min-width: 300px;
+    background-color: #8d8d8d;
+    background-repeat: no-repeat;
+    background-position: top-center;
+    line-height: 1.4em;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'molleat';
+    font-size: 26px;
+    text-align: center;
+    
+  }
+#menus > .wrapper > div {
+    width: 400px;
+    height: 250px;
+    margin: 0 5px 10px 5px;
+    color: #ffffff;
+    float: center;
+    
+  }
+
+}
+#contact{
+  width: 100%;
+  height: 110px;
+  background-color: #030303;
+}
+
+#isi-contact{
+  margin-top: 50px;
+  width: 500px;
+  float: left;
+  
+}
+#isi-contact li{
+  list-style: none;
+  float: left;
+  margin-right: 50px;
+}
+
+#isi-contact a{
+  color: ##f8f8f8;
+  text-decoration: none;
+  font-family: 'Westmeath';
+  
+}
+#contact{
+    padding-top: 100px;
+    padding-bottom: 250px;
+    background-color: #030303;
+    color: #f8f8f8;
+    font-family: 'mf be yourself';
+    font-size: 22px;
+    text-align: center;
+}
+#judul-contact{
+  color: #f8f8f8;
+  font-size: 64px;
+  font-family: 'westmeath';
+  font-weight: 400px;
+  margin-top: -20px;
+}
+#subjudul-contact{
+  font-family: 'westmeath';
+  font-size: 60px;
+}
+#bungkus-contact{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bungkus-contact p{
+    width: 400px;
+    line-height: 22px;
+    text-align: center;
+}
+
+
+  
+
+    
+  
+
